@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mertberkesahin
 - 👀 I’m interested in computer networks, blockchain technologies.
+- 👀 I'm currently working on Full-duplex implementation on FPGA as a Tübitak project.
 - 📫 mertberkesahin@gmail.com  ...
 
 <!---
