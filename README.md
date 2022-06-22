@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mertberkesahin
+- 🏫 I am studying MSc Electronics Engineering in Sabancı University.
+- 💻 I'm currently working on Full-duplex implementation on FPGA as a Tübitak project.
 - 👀 I’m interested in computer networks, blockchain technologies.
-- 👀 I'm currently working on Full-duplex implementation on FPGA as a Tübitak project.
 - 📫 mertberkesahin@gmail.com  ...
 
 <!---
